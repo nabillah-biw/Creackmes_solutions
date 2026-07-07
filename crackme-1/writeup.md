@@ -21,8 +21,8 @@ Hasil dekompilasi menunjukkan adanya dua tahap pengecekan input yang bersifat ha
 Setelah mengetahui nilai yang diharapkan, dilakukan pengujian melalui Command Prompt untuk memverifikasi temuan:
 
 # Hasil eksekusi menggunakan terminal
-![Tampilan Decompiler Hasil ](hasil.jpeg)
+![Tampilan Decompiler Hasil ](hasil.png)
 
 # 4. Kesimpulan
-Tantangan ini mengajarkan dasar-dasar reverse engineering di mana analis harus mampu melakukan konversi nilai antara heksadesimal ke desimal serta membaca alur logika program melalui dekompilator. 
+# Tantangan ini mengajarkan dasar-dasar reverse engineering di mana analis harus mampu melakukan konversi nilai antara heksadesimal ke desimal serta membaca alur logika program melalui dekompilator. 
 Tantangan ini berhasil diselesaikan dengan metode analisis statis yang dikonfirmasi dengan pengujian dinamis
