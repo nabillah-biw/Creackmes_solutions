@@ -1,1 +1,27 @@
-# Creackmes_solutions
+# Crackmes_solutions
+Repositori ini berisi solusi dan dokumentasi untuk berbagai tantangan Reverse Engineering (CrackMe) yang dikerjakan sebagai bagian dari tugas mata kuliah
+
+#Staus Pengerjaan
+Nama Tantangan :The wired
+Tingkat kesulitan :1.0
+Status: selesai
+Keterangan : Mencari kata kunci dengan nama "we_all_love_serial_ekperimen_lain"
+
+Nama tantangan : Getting Started Keygen
+Tingkat kesulitan :2.0
+Status: selesai
+Keterangan :  analisis statis dan validasi input
+
+Nama tantangan : RE CTF 2026 - httpd
+Tingkat kesulitan :3.0
+Status: selesai
+Keterangan :  Mencari flag dengan nama "noting to see here"
+
+# METODOLOGI
+Setiap tantangan diselesaikan menggunakan metode:
+
+1. Static Analysis: Menggunakan Ghidra untuk memetakan alur kontrol dan algoritma validasi.
+2. Verification: Melakukan pengujian langsung di lingkungan terisolasi untuk memastikan kebenaran hasil.
+3. Documentation: Menyusun writeup teknis yang mencakup deskripsi algoritma dan pembuktian matematis.
+
+Dibuat untuk tugas mata kuliah Reverse Engineering - Semester 4.# Creackmes_solutions
